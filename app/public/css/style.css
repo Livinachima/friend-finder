@@ -8,8 +8,13 @@
  }
 
  body {
-    background-image: url("images.jpg");
+    background-image: url("../image/Background-Image.jpg");
     background-color: hsla(170, 50%, 45%, 1);
+    -webkit-background-size: cover;
+   	-moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
 
  header {
