@@ -7,6 +7,11 @@
 	flex-direction: column;
  }
 
+ body {
+    background-image: url("images.jpg");
+    background-color: hsla(170, 50%, 45%, 1);
+}
+
  header {
  	height: 100px;
  }

@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.16.1",
+    "module.js": "^2.2.4",
+    "npm-install-global": "^1.0.0",
+    "package.json": "^2.0.1",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Livinachima/friend-finder.git"
+  },
+  "author": "Livina Chima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Livinachima/friend-finder/issues"
+  },
+  "homepage": "https://github.com/Livinachima/friend-finder#readme"
+}
